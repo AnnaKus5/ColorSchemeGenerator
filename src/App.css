@@ -1,0 +1,39 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.color-form {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+}
+.color-input {
+  height: 30px;
+  cursor: pointer;
+}
+
+.mode-select {
+ height: 30px; 
+ cursor: pointer;
+}
+
+.color-palette-container {
+  display: flex;
+}
+
+.color-section {
+  height: 250px;
+  width: 80px;
+}
+
+.color-name {
+  margin-top: 5px;
+}
+
+.color-copy-alert {
+  margin: 0;
+}
+
